@@ -1,0 +1,6 @@
+com\aispark\core\service\CoreService.class
+com\aispark\core\config\CoreConfig.class
+com\aispark\core\model\AIModel.class
+com\aispark\core\controller\CoreController.class
+com\aispark\core\CoreApplication.class
+com\aispark\core\util\DataPreprocessingUtil.class

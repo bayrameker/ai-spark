@@ -1,0 +1,7 @@
+com\aispark\api\service\DocumentService.class
+com\aispark\api\APIApplication.class
+com\aispark\api\controller\DocumentController.class
+com\aispark\api\service\EmbeddingService.class
+com\aispark\api\service\ChatService.class
+com\aispark\api\controller\ChatController.class
+com\aispark\api\controller\EmbeddingController.class
