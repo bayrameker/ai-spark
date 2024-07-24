@@ -11,7 +11,7 @@ Thank you for your interest in contributing to AI Spark! We welcome contribution
 2. **Create a New Branch**
     - Clone your forked repository to your local machine:
       ```bash
-      git clone https://github.com/<your-username>/ai-spark.git
+      git clone https://github.com/bayrameker/ai-spark.git
       cd ai-spark
       ```
     - Create a new branch for your changes:
